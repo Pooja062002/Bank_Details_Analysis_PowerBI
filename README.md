@@ -22,24 +22,24 @@ The objectives of this project are:
 •	Microsoft PowerPoint
 
 ## 4. Key Metrics and DAX
-Total Revenue
-Average Interest Rate
-Total Transaction
-Transaction Count
-Average Credit Score
-Account Growth Forecast
-Balance by Account Type
-Risk Assessment
-Balance by Account Type
-Customer Loyalty by City
-Average Revenue per Transaction
-Transaction Volume by Branch
-Transaction Time Distribution
-Currency Conversion Analysis
-Total Loan Amount Sectorwise
-Correlation between Total Loan Amount and Credit Score
-Account Growth Forecast
-Loan Balance ratio by Sector
+- Total Revenue
+- Average Interest Rate
+- Total Transaction
+- Transaction Count
+- Average Credit Score
+- Account Growth Forecast
+- Balance by Account Type
+- Risk Assessment
+- Balance by Account Type
+- Customer Loyalty by City
+- Average Revenue per Transaction
+- Transaction Volume by Branch
+- Transaction Time Distribution
+- Currency Conversion Analysis
+- Total Loan Amount Sectorwise
+- Correlation between Total Loan Amount and Credit Score
+- Account Growth Forecast
+- Loan Balance ratio by Sector
 
 ## 5. Summary
 This Power BI project provides a comprehensive analysis of banking operations by integrating customer, loan, and transaction data into interactive dashboards. It enables stakeholders to monitor key metrics such as total balance, loan distribution, transaction volume, and customer credit scores. Through visualizations like pie charts, bar graphs, and correlation plots, the dashboards offer insights into sector-wise loan performance, account growth forecasts, and risk assessments. The use of DAX measures enhances analytical depth, allowing for dynamic filtering, drill-downs, and predictive modeling. Overall, the project empowers data-driven decision-making and operational optimization across core banking functions.
