@@ -11,15 +11,15 @@ This project focuses on analysing key operational areas of the Bank through the 
 	
 ## 2. Objective 
 The objectives of this project are:
-•	To provide detailed insights into customer demographics, behaviour, and satisfaction levels.
-•	To optimize employee performance and engagement by analysing key workforce metrics.
-•	To enhance transaction monitoring for improved fraud detection, revenue tracking, and operational efficiency.
-•	To offer a holistic view of the bank’s performance through an integrated Overview Dashboard.
+- To provide detailed insights into customer demographics, behaviour, and satisfaction levels.
+- To optimize employee performance and engagement by analysing key workforce metrics.
+- To enhance transaction monitoring for improved fraud detection, revenue tracking, and operational efficiency.
+- To offer a holistic view of the bank’s performance through an integrated Overview Dashboard.
 
 ## 3. Technology Used
-•	Power BI
-•	Microsoft Excel / CSV
-•	Microsoft PowerPoint
+- Power BI
+- Microsoft Excel / CSV
+- Microsoft PowerPoint
 
 ## 4. Key Metrics and DAX
 - Total Revenue
